@@ -1,0 +1,2 @@
+ARG INFISICAL_VERSION
+FROM infisical/infisical:${INFISICAL_VERSION}-postgres
