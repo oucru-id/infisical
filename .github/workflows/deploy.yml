@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      VERSION: v0.131.0 # Define the version here
+      VERSION: v0.132.3 # Define the version here
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
